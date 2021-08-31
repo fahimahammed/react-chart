@@ -13,6 +13,7 @@ function App() {
     <div className="App">
        
       <div className='chart'>
+        {/* Chart components */}
           <LineChart/>
           <BarChart/>
           <PieChart/>
