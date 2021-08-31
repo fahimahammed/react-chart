@@ -3,8 +3,12 @@
 <h3>Chart</h3>
 <li>Line Chart</li>
 <li>Bar Chart</li>
+<li>Pie Chart</li>
+<li>Polar Chart</li>
+<li>Multitype Chart</li>
 
 
 <h3>Installation Guide</h3>
+
 
 

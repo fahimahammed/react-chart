@@ -3,6 +3,8 @@ import './App.css';
 import LineChart from './components/LineChart';
 import BarChart from './components/BarChart';
 import PieChart from './components/PieChart';
+import PolarChart from './components/PolarChart';
+import Multitype from './components/Multitype';
 
 function App() {
 
@@ -12,9 +14,11 @@ function App() {
     <div className="App">
        
       <div className='chart'>
-      <LineChart/>
-      <BarChart/>
-      <PieChart/>
+          <LineChart/>
+          <BarChart/>
+          <PieChart/>
+          <PolarChart/>
+          <Multitype/>
       </div>
     </div>
   );

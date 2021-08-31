@@ -47,7 +47,7 @@ const LineChart = () => {
     return (
         
             <div>
-                <h1>Line Chart</h1>
+                <h1 className='title'>Line Chart</h1>
                 <Line data={data} options = {options} />
             </div>
         
