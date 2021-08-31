@@ -5,6 +5,7 @@
 <li>Bar Chart</li>
 <li>Pie Chart</li>
 <li>Polar Chart</li>
+<li>Radar Chart</li>
 <li>Multitype Chart</li>
 
 
