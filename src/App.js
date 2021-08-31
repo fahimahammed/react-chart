@@ -4,6 +4,7 @@ import BarChart from './components/BarChart';
 import PieChart from './components/PieChart';
 import PolarChart from './components/PolarChart';
 import Multitype from './components/Multitype';
+import RadarChart from './components/RadarChart';
 
 function App() {
 
@@ -18,7 +19,9 @@ function App() {
           <BarChart/>
           <PieChart/>
           <PolarChart/>
+          <RadarChart/>
           <Multitype/>
+          
       </div>
     </div>
   );
