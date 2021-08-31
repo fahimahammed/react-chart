@@ -9,7 +9,7 @@
 
 
 <h3>Installation Guide</h3>
-yarn add react-chartjs-2 chart.js
+```yarn add react-chartjs-2 chart.js```
 
 <h3><a href="https://react-chart2.netlify.app/">Live site</a></h3>
 
