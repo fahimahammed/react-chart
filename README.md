@@ -9,6 +9,8 @@
 
 
 <h3>Installation Guide</h3>
+yarn add react-chartjs-2 chart.js
+
 
 
 
