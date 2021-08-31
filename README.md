@@ -11,8 +11,8 @@
 <h3>Installation Guide</h3>
 yarn add react-chartjs-2 chart.js
 
-<button><a href="https://react-chart2.netlify.app/">Live site</a></button>
+<h3><a href="https://react-chart2.netlify.app/">Live site</a></h3>
 
-<hr>
+
 
 
