@@ -6,8 +6,5 @@
 
 
 <h3>Installation Guide</h3>
-copyCodeBlock('<div>Thundercats</div>')
 
-
-`${copyCodeBlock('<div>Thundercats</div>')}`
 
